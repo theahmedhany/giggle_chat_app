@@ -25,11 +25,11 @@ Giggle Chat App stands out for its robust features that cater to both functional
 
 ## Demo and Resources
 #### To see Giggle App in action, check out the video below:
+https://github.com/user-attachments/assets/4c4b748f-d7ae-4be8-b0ef-09b2389a19ee
 
 
 
-
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-firebase-activity-7231942343958962176-nPqZ?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
