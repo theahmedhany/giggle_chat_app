@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90671918239",
+    "project_id": "giggle-chat-app-a7ee2",
+    "storage_bucket": "giggle-chat-app-a7ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90671918239:android:d444bb6da14155410246aa",
+        "android_client_info": {
+          "package_name": "com.example.giggle_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6SomkjfOSyiJiI9KafN1etyiNQO9ZpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

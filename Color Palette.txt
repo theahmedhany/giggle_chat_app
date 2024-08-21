@@ -1,0 +1,11 @@
+Color Palette : https://coolors.co/palette/e6e5e0-230462-203590-6083c5-96b8db-c5dbf0
+
+
+
+#E6E5E0
+#230462
+#203590
+#6083C5
+#96B8DB
+#C5DBF0
+

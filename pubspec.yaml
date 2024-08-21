@@ -1,0 +1,59 @@
+name: giggle_chat_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.1.1
+  firebase_auth: ^5.1.1
+  modal_progress_hud_nsn: ^0.5.1
+  cloud_firestore: ^5.0.2
+  flutter_native_splash: ^2.4.0
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter_native_splash:
+  color: "#C5DBF0"   # Color of the background of the splash screen 
+  image: assets/images/splash_screen.png  # image path
+  android_12:
+    image: assets/images/splash_screen.png  # image path
+    color: "#C5DBF0"   # Color of the background of the splash screen 
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"  # Logo image path 
+  min_sdk_android: 21
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+
+  fonts:
+    - family: Merienda-VariableFont
+      fonts:
+        - asset: assets/fonts/Merienda-VariableFont_wght.ttf
+    - family: Lobster
+      fonts:
+        - asset: assets/fonts/Lobster-Regular.ttf
